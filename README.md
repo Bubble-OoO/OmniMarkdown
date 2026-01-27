@@ -1,5 +1,9 @@
 # OmniMarkdown
 
+- Demo  
+  <img width="300" height="800" alt="image" src="https://github.com/user-attachments/assets/cbd71a29-5bdb-412f-bae6-3f841f141826" />
+
+
 ## 一、 Environment Setup
 (不需要算力，能安装Anaconda即可，如果希望能够长时间运行，请确保这台电脑(笔记本or台式机均可)长时间处于运行状态，网络稳定即可)
 
