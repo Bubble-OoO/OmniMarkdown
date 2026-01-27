@@ -30,6 +30,8 @@ pip install flask flask-cors openai cpolar
 }
 ```
 
+ 2. 将user_files下的notebook.md换成自己的内容。
+
 ## 三、 Quick Start
 要实现远程访问，需要按顺序启动以下服务：
 
