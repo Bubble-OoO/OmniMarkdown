@@ -1,5 +1,6 @@
 # OmniMarkdown
 A Python skill for building an AI-powered smart notebook — manage your Markdown notes with natural language, no coding required.
+<img src=".assets/demo.png" width="200"/>
 
 # What This Does
 **OmniMarkdown** lets anyone store, query, and edit a personal Markdown notebook by simply typing plain English commands. It uses a "skill card" approach: instead of memorizing syntax or writing code, you click a button and describe what you want in natural language.
