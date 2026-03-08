@@ -1,6 +1,14 @@
-## 科研
+# My Smart Notebook
 
-## 窗口掉到屏幕外面
+## 📋 Todo List
+- [ ] Example: Complete the project report
+- [ ] Example: Send email to the client
 
-同时按下alt键+空格键，然后按M键，然后按键盘上的上下左右键调整出来不见了的应用，如果没用，使用alt+空格键，然后按X键，就可以出来（推荐使用alt+空格+X）
+## 🔐 Account Credentials
+- Example account: username@example.com / password123
 
+## 📝 Memo
+- Example: Started using OmniMarkdown in January 2024
+
+---
+> 💡 Tips: Click a skill button on the left, or type `?` to query, `! add / delete / modify` to edit your notes
